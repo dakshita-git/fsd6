@@ -1,15 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "day06appln",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+=======
+  "name": "day_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+>>>>>>> b9bcc461940895ce09e0ec6b9fed87f835ff44d0
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
+=======
+>>>>>>> b9bcc461940895ce09e0ec6b9fed87f835ff44d0
   "dependencies": {
     "fs": "^0.0.1-security"
   }
